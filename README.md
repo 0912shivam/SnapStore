@@ -44,7 +44,7 @@ docker-compose up
 ## Database Seed
 
 * The seed command will create an admin user in the database
-* The email and password are passed with the command as arguments
+* The email and password are passed with the command as argument
 * Like below command, replace brackets with email and password. 
 * For more information, see code [here](server/utils/seed.js)
 
